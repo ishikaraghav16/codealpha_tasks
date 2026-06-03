@@ -4,8 +4,8 @@
     
  TASK 1: Logo Redesign
 
-DESIGN LOGIC:
-
+     DESIGN LOGIC:
+ 
 Modern & Minimal-
 Clean, minimal design with a strong monogram for a contemporary look.
 
