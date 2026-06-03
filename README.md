@@ -6,21 +6,20 @@
 
 DESIGN LOGIC:
 
-Modern & Minimal
+Modern & Minimal-
 Clean, minimal design with a strong monogram for a contemporary look.
 
-Brand Identity
+Brand Identity-
 The 'C' and 'A' integration represents CodeAlpha in a unique and memorable way.
 
-Growth & Progress
+Growth & Progress-
 The upward angle in 'A' signifies growth, innovation and forward movement.
 
-Vibrant Gradient
+Vibrant Gradient-
 The gradient conveys creativity, energy and modernity while keeping the brand approachable.
 
-Balanced Typography
+Balanced Typography-
 Bold, geometric typeface ensures readability and a professional appearance.
 
 
- TASK 3: Typography Practice
   
